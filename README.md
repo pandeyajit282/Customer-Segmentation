@@ -18,3 +18,44 @@ The project follows these main steps:
 4) Clustering: K-means clustering is applied to create customer segments. The number of clusters is determined through analysis.
 
 5) Customer Profiling: Insights are extracted from each cluster, profiling customers based on various factors.
+
+### Cluster characteristics
+
+##### Cluster 0 :
+
+- Older than average
+- Definitely a parent
+- Mostly a couple
+- Almost all did not accept promos
+- Income low and spending also low
+- High number of visits but low purchasing power
+
+#### Cluster 1 :
+
+- Average age
+- Almost none are parent
+- About half are couples
+- A large part accepted promos
+- Income high and spending also high
+- Less number of visits but more purchasing power
+- There is a large potential that can be explored in this group of customers
+
+#### Cluster 2 :
+
+- Relatively younger in age
+- mostly a parent
+- About half are couples
+- Almost all did not accept promos
+- Income very low and spending also very low
+- Visits high but very low purchasing power
+
+#### Cluster 3 :
+
+- Relatively older in age
+- Almost definitely a parent
+- More than half are couples
+- One third people accepted promos
+- Income is high and spending is also high
+- More visits and high spending
+- This group of customers are biggest revenue generator
+
