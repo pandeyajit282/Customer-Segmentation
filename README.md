@@ -21,7 +21,7 @@ The project follows these main steps:
 
 ### Cluster characteristics
 
-##### Cluster 0 :
+##### 1) Cluster 0 :
 
 - Older than average
 - Definitely a parent
@@ -30,7 +30,7 @@ The project follows these main steps:
 - Income low and spending also low
 - High number of visits but low purchasing power
 
-#### Cluster 1 :
+#### 2) Cluster 1 :
 
 - Average age
 - Almost none are parent
@@ -40,7 +40,7 @@ The project follows these main steps:
 - Less number of visits but more purchasing power
 - There is a large potential that can be explored in this group of customers
 
-#### Cluster 2 :
+#### 3) Cluster 2 :
 
 - Relatively younger in age
 - mostly a parent
@@ -49,7 +49,7 @@ The project follows these main steps:
 - Income very low and spending also very low
 - Visits high but very low purchasing power
 
-#### Cluster 3 :
+#### 4) Cluster 3 :
 
 - Relatively older in age
 - Almost definitely a parent
