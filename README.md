@@ -11,10 +11,10 @@ The project follows these main steps:
 
 1) Data Cleaning: Outliers, missing values, and categorical variables are addressed to ensure data quality.
 
-Feature Engineering: New features are created to capture important aspects of customer behavior.
+2) Feature Engineering: New features are created to capture important aspects of customer behavior.
 
-Dimensionality Reduction: Techniques like Principal Component Analysis (PCA) may be used to reduce the number of features.
+3) Dimensionality Reduction: Techniques like Principal Component Analysis (PCA) may be used to reduce the number of features.
 
-Clustering: K-means clustering is applied to create customer segments. The number of clusters is determined through analysis.
+4) Clustering: K-means clustering is applied to create customer segments. The number of clusters is determined through analysis.
 
-Customer Profiling: Insights are extracted from each cluster, profiling customers based on various factors.
+5) Customer Profiling: Insights are extracted from each cluster, profiling customers based on various factors.
