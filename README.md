@@ -10,8 +10,8 @@ Customer segmentation is the practice of dividing customers into groups based on
 link - https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code
 
 Data Dashboard
-![Dashboard.png]
 
+![Dashboard of Dataset](Dashboard.png)
 
 ### Methodology
 
