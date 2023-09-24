@@ -5,6 +5,14 @@ Customer segmentation is the practice of dividing customers into groups based on
 - To optimize marketing strategies by tailoring products and services to the distinct needs and behaviors of customer segments.
 - Use this for target marketing and promotions to specific group of customers effectively.
 
+### Dataset 
+
+link - https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code
+
+Data Dashboard
+![Dashboard.png]
+
+
 ### Methodology
 
 The project follows these main steps:
